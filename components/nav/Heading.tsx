@@ -11,7 +11,7 @@ export const Heading = () => {
       <OutlineButton
         onClick={() =>
           window.open(
-            "https://drive.google.com/drive/folders/"
+            "https://drive.google.com/drive/u/0/home"
           )
         }
       >
