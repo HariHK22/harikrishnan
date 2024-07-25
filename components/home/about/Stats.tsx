@@ -13,8 +13,6 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">Java</span>
-            <span className="chip">Embedded C</span>
-            <span className="chip">Python for IoT</span>
             <span className="chip">C language</span>
           </div>
         </div>
@@ -27,7 +25,6 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">PCB designing</span>
-            <span className="chip">Machine learing</span>
             <span className="chip">3D Printing</span>
           </div>
         </div>
