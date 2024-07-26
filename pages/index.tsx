@@ -26,9 +26,9 @@ export default function home() {
         <meta property="og:url" content="https://joseboschero.xyz/" />
         <meta
           property="og:image"
-          content="https://joseboschero.xyz/screenshot.png"
+          content=""
         />
-        <meta property="og:description" content="Hey! I'm Jo" />
+        <meta property="og:description" content="Hey! I'm Harikrishnan" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@joseboschero" />
@@ -36,11 +36,11 @@ export default function home() {
           name="twitter:title"
           content="Harikrishnan | IoT Developer"
         />
-        <meta name="twitter:description" content="Hey! I'm " />
-        <meta name="twitter:creator" content="@joseboschero" />
+        <meta name="twitter:description" content="Hey! I'm Harikrishnan" />
+        <meta name="twitter:creator" content="" />
         <meta
           name="twitter:image"
-          content="https://joseboschero.xyz/screenshot.png"
+          content=""
         />
       </Head>
       <Home />
