@@ -9,18 +9,18 @@ export default function home() {
         <link rel="shortcut icon" href="/HK.png" />
         <meta
           name="description"
-          content="Jose Boschero | Fullstack Developer"
+          content="Harikrishnan | IoT Developer"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           property="og:title"
-          content="Jose Boschero | Fullstack Developer"
+          content="Harikrishnan | IoT Developer"
         />
-        <meta name="description" content="Hey! I'm Jose Boschero" />
+        <meta name="description" content="Hey! I'm Harikrishnan" />
 
         <meta
           property="og:title"
-          content="Jose Boschero | Fullstack Developer"
+          content="Harikrishnan | IoT Developer"
         />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://joseboschero.xyz/" />
@@ -34,7 +34,7 @@ export default function home() {
         <meta name="twitter:site" content="@joseboschero" />
         <meta
           name="twitter:title"
-          content="Jose Boschero | Fullstack Developer"
+          content="Harikrishnan | IoT Developer"
         />
         <meta name="twitter:description" content="Hey! I'm " />
         <meta name="twitter:creator" content="@joseboschero" />
