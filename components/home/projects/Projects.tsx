@@ -21,7 +21,7 @@ const projects = [
     title: "SMART TALKING SPOON FOR THE VISUALLY IMPAIRED",
     imgSrc: "/project-imgs/spoon.png",
     code: "https://github.com/HariHK22/Ecoflow.git",
-    projectLink: "https://github.com/HariHK22/Ecoflow.git",
+    projectLink: "https://github.com/HariHK22/arduinoide-projects/blob/main/LoadCell.ino",
     tech: ["ESP32", "Embedded C", "TTS"],
     description: "Prototype",
     modalContent: (
