@@ -11,7 +11,7 @@ export const Heading = () => {
       <OutlineButton
         onClick={() =>
           window.open(
-            "https://drive.google.com/file/d/1IGU5KCohAHCZOpyfJwvvYAEe92G789Pz/view?usp=sharing"
+            "https://drive.google.com/file/d/1O9SmaKGHlvOKbgtnkI2VjQl6w6yvDqCT/view?usp=sharing"
           )
         }
       >
