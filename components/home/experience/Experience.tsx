@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Freelancer",
     position: "IoT and Embedded",
-    time: "Mar 2019 - Present",
+    time: "Mar 2019 - Pre final year",
     location: "Puducherry, India",
     description:
       "Elevated IoT & Embedded project performance by 100% through expertise gained from developing over 100+ projects as a freelancer.",
@@ -27,19 +27,19 @@ const experience = [
   {
     title: "IOT INTERNSHIP",
     position: "Intern",
-    time: "May 30th - June 29th, 2024",
-    location: "",
+    time: "Jan 20th ,2025 - Present ",
+    location: "Hosur",
     description:
-      "Achieved significant skill enhancement and in-depth IoT knowledge through hands-on experience during a one-month internship at NoviTech R&D Private Limited.",
+      "Achieved significant skill enhancement and in-depth IoT knowledge through hands-on experience during a internship at Innovate Engineering product.",
     tech: [
     ],
   },
 
   {
-    title: "WORKSHOP FOR HR. SEC STUDENTS",
+    title: "WORKSHOP FOR STUDENTS",
     position: "Workshop Leader",
-    time: "Jan - Feb 2023 ",
-    location: "Karaikal, India",
+    time: "Jan 2022 - Mar 2025 ",
+    location: "Karaikal, Puducherry",
     description:
       "Better project outcomes by 80% via an interactive IoT and embedded systems workshop for students, offering hands-on experience and practical insights",
     tech: [
