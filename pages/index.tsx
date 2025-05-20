@@ -23,7 +23,7 @@ export default function home() {
           content="Harikrishnan | IoT Developer"
         />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="https://joseboschero.xyz/" />
+        <meta property="og:url" content="" />
         <meta
           property="og:image"
           content=""
